@@ -1,0 +1,27 @@
+7c7
+< echo "--------SUM OF N NUMBERS IN SHELL SCRIPT-----------"
+---
+> echo "--------SUM OF N NUMBERS AND FACTORIAL IN SHELL SCRIPT-----------"
+12,13c12,13
+<         total=`expr $total + $t`
+<         t=`expr $t + 1`
+---
+> 	total=`expr $total + $t`
+> 	t=`expr $t + 1`
+18a19,34
+> factorial(){
+> fact=1
+> 
+> if [ $num -eq 0 ]; then
+>   echo "Factorial of 0 is 1."
+> else
+>   for (( i=1; i<=num; i++ ))
+>   do
+>     fact=$(( fact * i ))
+>   done
+>   echo "Factorial of $num is $fact."
+> fi
+> }
+> 
+> sum_of_numbers
+> factorial
