@@ -1,0 +1,31 @@
+[resnet34]
+learning_rate = 0.01
+optimizer = "sgd"
+momentum = 0.9
+weight_decay = 0.0001
+batch_size = 32
+epochs = 5
+
+[resnet50]
+learning_rate = 0.01
+optimizer = "adam"
+momentum = 0.0
+weight_decay = 0.0001
+batch_size = 16
+epochs = 5
+
+[resnet101]
+learning_rate = 0.001
+optimizer = "adam"
+momentum = 0.0
+weight_decay = 0.0001
+batch_size = 8
+epochs = 4
+
+[resnet152]
+learning_rate = 0.0005
+optimizer = "sgd"
+momentum = 0.9
+weight_decay = 0.0001
+batch_size = 4
+epochs = 3

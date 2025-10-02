@@ -1,0 +1,97 @@
+{
+  "inference": [
+    {
+      "model": "resnet34",
+      "output_shape": [
+        1,
+        1000
+      ]
+    },
+    {
+      "model": "resnet50",
+      "output_shape": [
+        1,
+        1000
+      ]
+    },
+    {
+      "model": "resnet101",
+      "output_shape": [
+        1,
+        1000
+      ]
+    },
+    {
+      "model": "resnet152",
+      "output_shape": [
+        1,
+        1000
+      ]
+    }
+  ],
+  "grid_search": {
+    "total_combinations": 12,
+    "combinations": [
+      {
+        "lr": 0.1,
+        "optimizer": "adam",
+        "momentum": 0.5
+      },
+      {
+        "lr": 0.1,
+        "optimizer": "adam",
+        "momentum": 0.9
+      },
+      {
+        "lr": 0.1,
+        "optimizer": "sgd",
+        "momentum": 0.5
+      },
+      {
+        "lr": 0.1,
+        "optimizer": "sgd",
+        "momentum": 0.9
+      },
+      {
+        "lr": 0.01,
+        "optimizer": "adam",
+        "momentum": 0.5
+      },
+      {
+        "lr": 0.01,
+        "optimizer": "adam",
+        "momentum": 0.9
+      },
+      {
+        "lr": 0.01,
+        "optimizer": "sgd",
+        "momentum": 0.5
+      },
+      {
+        "lr": 0.01,
+        "optimizer": "sgd",
+        "momentum": 0.9
+      },
+      {
+        "lr": 0.01,
+        "optimizer": "adam",
+        "momentum": 0.5
+      },
+      {
+        "lr": 0.01,
+        "optimizer": "adam",
+        "momentum": 0.9
+      },
+      {
+        "lr": 0.01,
+        "optimizer": "sgd",
+        "momentum": 0.5
+      },
+      {
+        "lr": 0.01,
+        "optimizer": "sgd",
+        "momentum": 0.9
+      }
+    ]
+  }
+}

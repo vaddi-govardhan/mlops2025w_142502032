@@ -1,0 +1,22 @@
+version = 1
+requires-python = ">=3.12"
+
+[[package]]
+name = "torch"
+version = "2.2.0"
+source = { type = "registry", url = "https://pypi.org/simple" }
+
+[[package]]
+name = "torchvision"
+version = "0.17.0"
+source = { type = "registry", url = "https://pypi.org/simple" }
+
+[[package]]
+name = "toml"
+version = "0.10.2"
+source = { type = "registry", url = "https://pypi.org/simple" }
+
+[[package]]
+name = "numpy"
+version = "1.26.4"
+source = { type = "registry", url = "https://pypi.org/simple" }

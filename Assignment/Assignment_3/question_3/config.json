@@ -1,0 +1,21 @@
+{
+  "data_source": {
+    "type": "imagenet_sample",
+    "path": "datasets/imagenet_sample",
+    "input_size": [
+      3,
+      224,
+      224
+    ]
+  },
+  "model_architecture": {
+    "name": "ResNet",
+    "variants": [
+      "resnet34",
+      "resnet50",
+      "resnet101",
+      "resnet152"
+    ],
+    "num_classes": 1000
+  }
+}
