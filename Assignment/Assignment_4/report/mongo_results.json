@@ -1,0 +1,22 @@
+[
+  {
+    "task": "MONGO_CREATE",
+    "seconds": 0.008443400001851842,
+    "result": "None"
+  },
+  {
+    "task": "MONGO_READ_top10",
+    "seconds": 0.0016042999923229218,
+    "result": "[{'_id': 999999, 'revenue': 19.98}]"
+  },
+  {
+    "task": "MONGO_UPDATE_discount",
+    "seconds": 0.0009153000137303025,
+    "result": "None"
+  },
+  {
+    "task": "MONGO_DELETE_test_doc",
+    "seconds": 0.000607599999057129,
+    "result": "None"
+  }
+]
