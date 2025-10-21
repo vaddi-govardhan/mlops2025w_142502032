@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/govar/Documents/MLOPS/Class/Week-6/iris-mlflow-project/mlruns/883098252252841064
+creation_time: 1759812904791
+experiment_id: '883098252252841064'
+last_update_time: 1759812904791
+lifecycle_stage: active
+name: Iris Classification Hyperparameter Tuning

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/govar/Documents/MLOPS/Class/Week-6/iris-mlflow-project/mlruns/883098252252841064/308196965ce0480aaf20ca411e71104a/artifacts
+end_time: 1759815371496
+entry_point_name: ''
+experiment_id: '883098252252841064'
+lifecycle_stage: active
+run_id: 308196965ce0480aaf20ca411e71104a
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759815366175
+status: 3
+tags: []
+user_id: govar

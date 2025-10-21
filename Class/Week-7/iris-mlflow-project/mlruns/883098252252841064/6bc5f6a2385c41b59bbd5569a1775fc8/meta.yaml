@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/govar/Documents/MLOPS/Class/Week-6/iris-mlflow-project/mlruns/883098252252841064/6bc5f6a2385c41b59bbd5569a1775fc8/artifacts
+end_time: 1759815444283
+entry_point_name: ''
+experiment_id: '883098252252841064'
+lifecycle_stage: active
+run_id: 6bc5f6a2385c41b59bbd5569a1775fc8
+run_name: Hyperparameter Tuning Session
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759815410699
+status: 3
+tags: []
+user_id: govar

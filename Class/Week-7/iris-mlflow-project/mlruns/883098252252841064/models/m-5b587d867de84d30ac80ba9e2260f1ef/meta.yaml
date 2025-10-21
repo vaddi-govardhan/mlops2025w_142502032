@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/govar/Documents/MLOPS/Class/Week-6/iris-mlflow-project/mlruns/883098252252841064/models/m-5b587d867de84d30ac80ba9e2260f1ef/artifacts
+creation_timestamp: 1759814693864
+experiment_id: '883098252252841064'
+last_updated_timestamp: 1759814701496
+model_id: m-5b587d867de84d30ac80ba9e2260f1ef
+model_type: null
+name: model
+source_run_id: 0a74ef1f6935425fbd330d3e274e84f0
+status: 2
+status_message: null

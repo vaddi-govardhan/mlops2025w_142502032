@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/govar/Documents/MLOPS/Class/Week-6/iris-mlflow-project/mlruns/883098252252841064/b97848bc1837420d9b6da9d948a4bfc2/artifacts
+end_time: 1759814905344
+entry_point_name: ''
+experiment_id: '883098252252841064'
+lifecycle_stage: active
+run_id: b97848bc1837420d9b6da9d948a4bfc2
+run_name: RF_estimators_200_depth_7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759814900743
+status: 3
+tags: []
+user_id: govar

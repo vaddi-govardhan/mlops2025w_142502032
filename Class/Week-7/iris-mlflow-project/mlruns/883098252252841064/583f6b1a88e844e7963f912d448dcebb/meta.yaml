@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/govar/Documents/MLOPS/Class/Week-6/iris-mlflow-project/mlruns/883098252252841064/583f6b1a88e844e7963f912d448dcebb/artifacts
+end_time: 1759814838517
+entry_point_name: ''
+experiment_id: '883098252252841064'
+lifecycle_stage: active
+run_id: 583f6b1a88e844e7963f912d448dcebb
+run_name: Random Forest Classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759814833779
+status: 3
+tags: []
+user_id: govar

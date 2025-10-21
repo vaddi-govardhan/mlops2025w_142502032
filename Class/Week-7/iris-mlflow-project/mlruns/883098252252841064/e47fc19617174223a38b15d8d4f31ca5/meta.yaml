@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/govar/Documents/MLOPS/Class/Week-6/iris-mlflow-project/mlruns/883098252252841064/e47fc19617174223a38b15d8d4f31ca5/artifacts
+end_time: 1759814917474
+entry_point_name: ''
+experiment_id: '883098252252841064'
+lifecycle_stage: active
+run_id: e47fc19617174223a38b15d8d4f31ca5
+run_name: LR_C_1.0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759814913403
+status: 3
+tags: []
+user_id: govar
