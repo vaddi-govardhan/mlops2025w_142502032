@@ -4,3 +4,6 @@
 [submodule "Assignment/Assignment_2/git-assignment-142502032"]
 	path = Assignment/Assignment_2/git-assignment-142502032
 	url = https://github.com/vaddi-govardhan/git-assignment-142502032.git
+[submodule "Project/ai-image-detect"]
+	path = Project/ai-image-detect
+	url = https://github.com/vaddi-govardhan/ai-image-detect.git
